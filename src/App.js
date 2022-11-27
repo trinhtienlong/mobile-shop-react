@@ -25,7 +25,7 @@ function App() {
       { data && data.map((item, index)=>{
         return(
             <div key={index}>
-              <h1>{item.category}</h1>
+              <h1>{item.title}</h1>
               <img src={item.image} alt="" />
             </div>
         )

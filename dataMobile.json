@@ -1,30 +1,157 @@
 {
-    "datas": [
-        {
-            "id": 1,
-            "title": "Fjallraven - Foldsack No. 1 Backpack, Fits 15 Laptops",
-            "price": 109.95,
-            "description": "Your perfect pack for everyday use and walks in the forest. Stash your laptop (up to 15 inches) in the padded sleeve, your everyday",
-            "category": "girl's clothing",
-            "image": "imgs/1.u504.d20160927.t171302.773071.jpg",
-            "rating": {
-            "rate": 3.9,
-            "count": 120
+    "datas":
+        [
+            {   
+                "id": 1,
+                "category": "laptop",
+                "titleCaption": "HP ProBook",
+                "image": "imgs/hp-probook-440-g3-t9s24pa-01.jpg",
+                "title": "Laptop HP ProBook 440 G3 T9S24PA Bạc Core i5-7500U/Win10 (13.3 inch) – Hàng Chính Hãng",
+                "price": "9,800,000"
+            },
+            {
+                "id": 1,
+                "category": "laptop",
+                "titleCaption": "HP Envy",
+                "image": "imgs/hp-envy-13-01.jpg",
+                "title": "Laptop HP Envy 13-ad074TU 2LR92PA Core i7-7500U/Win10 (13.3 inch) – Hàng Chính Hãng",
+                "price": "14,280,000"
+            },
+            {
+                "id": 1,
+                "category": "phụ kiện",
+                "titleCaption": "Bao Da iPad Pro",
+                "image": "imgs/uag-ipad-01-300x300.jpg",
+                "title": "Bao Da iPad Pro 10.5 inch UAG Metropolis – Hàng Chính Hãng",
+                "price": "1,034,000"
+            },
+            {
+                "id": 1,
+                "category": "phụ kiện",
+                "titleCaption": "HD Headphone",
+                "image": "imgs/Blaster-E3-01.jpg",
+                "title": "HD Headphone Amplifier Creative Sound Blaster E3 – Hàng Chính Hãng",
+                "price": "3,245,000"
+            },
+            {
+                "id": 1,
+                "category": "điện thoại",
+                "titleCaption": "iPhone 6s 32GB",
+                "model": "apple",
+                "image": "imgs/iphone-6-s-32Gb-01.jpg",
+                "title": "Điện Thoại iPhone 6s 32GB – Hàng Chính Hãng",
+                "price": "5,000,000"
+            },
+            {
+                "id": 1,
+                "category": "điện thoại",
+                "titleCaption": "iPhone X 64GB",
+                "model": "apple",
+                "image": "imgs/iphone-X-64Gb-01.jpg",
+                "title": "Điện Thoại iPhone X 64GB – Hàng Chính Hãng",
+                "price": "29,990,000"
+            },
+            {
+                "id": 1,
+                "category": "điện thoại",
+                "titleCaption": "BlackBerry KEYone",
+                "image": "imgs/bb-key-one-01.jpg",
+                "title": "Điện Thoại BlackBerry KEYone – Hàng Chính Hãng",
+                "price": "9,500,000"
+            },
+            {
+                "id": 1,
+                "category": "phụ kiện",
+                "titleCaption": "Ốp Lưng Dẻo",
+                "image": "imgs/op-deo-hinh-thu-01-300x300.jpg",
+                "title": "Ốp Lưng Dẻo Cho iPhone 6 Plus/6s Plus – Gấu Kèm Thú Nổi",
+                "price": "90,000"
+                },
+            {
+                "id": 1,
+                "category": "điện thoại",
+                "titleCaption": "Samsung Galaxy Note FE",
+                "model": "samsung",
+                "image": "imgs/ss-galaxy-note-fe-01.jpg",
+                "title": "Điện Thoại Samsung Galaxy Note FE – Hàng Chính Hãng",
+                "price": "13,990,000"
+            },
+            {
+                "id": 1,
+                "category": "điện thoại",
+                "titleCaption": "Samsung Galaxy Note 8",
+                "model": "samsung",
+                "image": "imgs/ss-galaxy-note-8-01.jpg",
+                "title": "Điện Thoại Samsung Galaxy Note 8 – Hàng Chính Hãng",
+                "price": "19,990,000"
+            },
+            {
+                "id": 1,
+                "category": "phụ kiện",
+                "titleCaption": "Tai Nghe JBL",
+                "image": "imgs/jbl-t450-02.jpg",
+                "title": "Tai Nghe JBL T450BT – Hàng Chính Hãng",
+                "price": "1,600,000"
+            },
+            {
+                "id": 1,
+                "category": "phụ kiện",
+                "titleCaption": "Thiết Bị Kết Nối Bluetooth",
+                "image": "imgs/Kashimura-BL-40-01.jpg",
+                "title": "Thiết Bị Kết Nối Bluetooth Với Điện Thoại Kashimura BL-40 3.0",
+                "price": "749,000"
+                },
+            {
+                "id": 1,
+                "category": "laptop",
+                "titleCaption": "Lenovo ThinkPad",
+                "image": "imgs/lenovo-ThinkPad-T470-01.jpg",
+                "title":
+                    "Laptop Lenovo ThinkPad T470 20HEA03LVA Core i5-7200U/DOS 14 inch – Hàng Chính Hãng",
+                "price": "29,690,000"
+            },
+            {
+                "id": 1,
+                "category": "laptop",
+                "titleCaption": "Lenovo IdeaPad",
+                "image": "imgs/lenovo-IdeaPad-Y520-01.jpg",
+                "title":
+                    "Laptop Lenovo IdeaPad Y520-15IKBN 80WK00GBVN Core i7-7700HQ / Free Dos (15.6inch) – Hàng Chính Hãng",
+                "price": "21,920,000"
+            },
+            {
+                "id": 1,
+                "category": "tablet",
+                "titleCaption": "Máy Tính Bảng cutePAD",
+                "image": "imgs/cutepad-m7089-01.jpg",
+                "title": "Máy Tính Bảng cutePAD M7089 – Hàng Chính Hãng",
+                "price": "1,449,000"
+            },
+            {
+                "id": 1,
+                "category": "tablet",
+                "titleCaption": "Máy Tính Bảng Beneve",
+                "image": "imgs/beneve-m1022h-02.jpg",
+                "title": "Máy Tính Bảng Beneve M1022H – Hàng Chính Hãng",
+                "price": "4,490,000"
+            },
+            {
+                "id": 1,
+                "category": "tablet",
+                "titleCaption": "iPad WiFi 128GB",
+                "image": "imgs/ipad-wifi-128Gb-2017-01.jpg",
+                "title": "iPad WiFi 128GB New 2017 – Hàng Nhập Khẩu",
+                "price": "10,990,000"
+            },
+            {
+                "id": 1,
+                "category": "tablet",
+                "titleCaption": "iPad Pro 9.7",
+                "image": "imgs/ipad-pro-9.7-wifi-4g-32gb-rose-gold-01.jpg",
+                "title": "iPad Pro 9.7 inch Wifi Cellular 32GB – Hàng Chính Hãng",
+                "price": "16,320,000"
             }
-        },
-        {
-            "id": 2,
-            "title": "Mens Casual Premium Slim Fit T-Shirts ",
-            "price": 22.3,
-            "description": "Slim-fitting style, contrast raglan long sleeve, three-button henley placket, light weight & soft fabric for breathable and comfortable wearing. And Solid stitched shirts with round neck made for durability and a great fit for casual fashion wear and diehard baseball fans. The Henley style round neckline includes a three-button placket.",
-            "category": "men's clothing",
-            "image": "imgs/2.u504.d20160927.t171302.809535.jpg",
-            "rating": {
-            "rate": 4.1,
-            "count": 259
-            }
-        }
-    ]
+        ]
 }
 
 
